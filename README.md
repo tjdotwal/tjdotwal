@@ -8,15 +8,11 @@ I'm a partner @ [HypeLocal](https://hypelocal.com), a marketing agency where I m
 
 ---
 
-### What I'm working on
+Working on
 
 - **MCP servers** for Google Ads and Meta Ads — campaign reads, budget changes, creative pulls, search term mining
 - **Claude Code plugins** that package our agency's actual process into skills: account audits, pacing reviews, creative briefs, keyword research
 - Getting non-technical operators to do technical work without learning the API
-
-### Stack
-
-Python, TypeScript, Claude Agent SDK, MCP, Google Ads API, Meta Marketing API, BigQuery
 
 ---
 
