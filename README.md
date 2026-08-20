@@ -1,6 +1,6 @@
 # Trent Walker 👋
 
-I'm a partner @ [HypeLocal](https://hypelocal.com), a marketing agency where I mostly focus on paid advertising. Most of what I'm trying to build here are tools and skills that let me first, and then after I hack through them, my team uses them.
+I'm a partner @ [HypeLocal](https://hypelocal.com), a marketing agency where I mostly focus on advertising. What I'm trying to build here are tools and skills to make advertising more efficient. Mostly around pulling data and insights. The copy work I like to mostly do myself.
 
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=flat&logo=safari&logoColor=white)](https://hypelocal.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tjdotwal)
